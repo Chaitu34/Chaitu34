@@ -1,4 +1,4 @@
-![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
+
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <h3 align="center">Hi I'm Chaitanya Dhande Fresher Data Structures and Algorithms   From India</h3>
 
